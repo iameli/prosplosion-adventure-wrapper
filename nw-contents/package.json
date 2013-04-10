@@ -1,0 +1,13 @@
+{
+  "name": "PAE Game",
+  "description": "Prosplosion Adventure Engine Game",
+  "version": "0.1",
+  "main": "game.html",
+  "window": {
+    "title" : "Skepto's Big Adventure 3!",
+    "toolbar": false,
+    "frame": false,
+    "position": "center",
+    "fullscreen": true
+  }
+}
